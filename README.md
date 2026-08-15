@@ -11,11 +11,11 @@
 ## Стек технологий
 `Python` `Pandas` `NLTK` `NLP` `Веб-скрапинг` `Matplotlib` `Plotly` `Seaborn` `Excel`
 ## Файлы
-- `01_selenium_review_scraper.ipynb` — веб-скрапер 
-- `02_reviews_preprocess.ipynb` — предобработка отзывов
-- `03_reviews_sent_analiz.ipynb` — сентимент анализ 
-- `04_reviews_visualisation.ipynb` — финальный анализ и визуализация 
-- `Ритейл-форматы малого формата в потребительских паттернах 2026.pptx` — итоговая презентация
-- `reviews_final.xlsx` — таблицы с результатами
+- `01_selenium_review_scraper.ipynb` - веб-скрапер 
+- `02_reviews_preprocess.ipynb` - предобработка отзывов
+- `03_reviews_sent_analiz.ipynb` - сентимент анализ 
+- `04_reviews_visualisation.ipynb` - финальный анализ и визуализация 
+- `Ритейл-форматы малого формата в потребительских паттернах 2026.pptx` - итоговая презентация
+- `reviews_final.xlsx` - таблицы с результатами
 ## Заказчик
 Проект выполнен для компании **«Точка продаж»** — *[[ссылка на компанию]](https://tpmag.ru/articles/)*
